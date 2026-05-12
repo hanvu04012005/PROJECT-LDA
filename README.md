@@ -53,15 +53,15 @@ git clone https://github.com/hanvu04012005/PROJECT-LDA.git
 cd PROJECT-LDA
 ```
 ### 2. Tạo môi trường ảo  
-# Tạo môi trường ảo
+#### Tạo môi trường ảo
 python -m venv env
 
-# Kích hoạt môi trường
+#### Kích hoạt môi trường
 
-# Windows
+#### Windows
 .\env\Scripts\activate
 
-# macOS/Linux
+#### macOS/Linux
 source env/bin/activate
 
 ### 3. Cài thư viện  
