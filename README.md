@@ -75,12 +75,11 @@ streamlit run app.py
 ```
 ## 📬 Thông tin liên hệ
 
-# 📬 Thông tin liên hệ
-
 Nếu bạn có bất kỳ câu hỏi nào về dự án hoặc muốn hợp tác, vui lòng liên hệ với mình qua:
 
 * **Họ và tên:** Nguyễn Hạn Vũ
 * **GitHub:** [hanvu04012005](https://github.com/hanvu04012005)
 * **Repository:** [PROJECT-LDA](https://github.com/hanvu04012005/PROJECT-LDA)
-* **Email:** 0966118632
+* **Email:** nguyenhanvu04012005@gmail.com
+* **Phone:** 0966118632
 
