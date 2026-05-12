@@ -49,20 +49,20 @@ Dự án xây dựng mô hình học máy không giám sát (Unsupervised Learni
 ## 💻 Hướng dẫn sử dụng  
 ### 1. Clone Repository  
 ```python
-git clone https://github.com/trdphatphattran/Pyspark-lda-news-classification.git
-cd Pyspark-lda-news-classification
+git clone https://github.com/hanvu04012005/PROJECT-LDA.git
+cd PROJECT-LDA
 ```
 ### 2. Tạo môi trường ảo  
-```python
 # Tạo môi trường ảo
 python -m venv env
 
 # Kích hoạt môi trường
-# Windows:
+
+# Windows
 .\env\Scripts\activate
-# macOS/Linux:
+
+# macOS/Linux
 source env/bin/activate
-```
 
 ### 3. Cài thư viện  
 ```python
@@ -75,11 +75,12 @@ streamlit run app.py
 ```
 ## 📬 Thông tin liên hệ
 
+# 📬 Thông tin liên hệ
+
 Nếu bạn có bất kỳ câu hỏi nào về dự án hoặc muốn hợp tác, vui lòng liên hệ với mình qua:
 
-* **Họ và tên:** Trần Đại Phát
-* **LinkedIn:** [Phat Tran](https://www.linkedin.com/in/phat-tran-9ba42a341/)
-* **GitHub:** [trdphatphattran](https://github.com/trdphatphattran)
-* **Email:** phattrandai15062005@gmail.com
-* **Phone:** 0908647977 
+* **Họ và tên:** Nguyễn Hạn Vũ
+* **GitHub:** [hanvu04012005](https://github.com/hanvu04012005)
+* **Repository:** [PROJECT-LDA](https://github.com/hanvu04012005/PROJECT-LDA)
+* **Email:** 0966118632
 
